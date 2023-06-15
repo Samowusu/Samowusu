@@ -1,11 +1,12 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+<h1 align="center">Hi there, folks! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>You are welcome!</b><br><br>
     <i>
         I'm Samuel but you can call me NKB.<br>
-        Currently learning about AI and its endless possibilities. I have some interesting projects coming up as well!<br>
-        Open to collaborating on interesting and innovative projects...anything to make me learn!<br>
+        I'm not just your ordinary developer—I'm a passionate explorer of the ever-expanding realm of AI and its boundless possibilities. Brace yourselves, because I've got some mind-blowing projects up my sleeve that will leave you in awe!<br>
+        But wait, there's more! I'm not just limited to one domain; I'm a versatile full-stack web and mobile developer, wielding my expertise in React, React Native, Vue.js, Node.js, Express, Python and a whole galaxy of cutting-edge technologies<br>
+         I thrive on pushing the boundaries of what's possible and am always ready to collaborate on innovative projects that challenge the status quo. Let's embark on this thrilling journey of learning and creation together!<br>
     </i><br>
    
 </p>
